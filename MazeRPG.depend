@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1547734197 source:t:\student-work\duff_heather\period-2_intro to programming\wu-ricky\mazerpg\mazerpg.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<MMSystem.h>
+	<conio.h>
+
+1547683305 source:c:\users\ricky wu\documents\mazerpg sorta final\mazerpg.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<MMSystem.h>
+	<conio.h>
+
